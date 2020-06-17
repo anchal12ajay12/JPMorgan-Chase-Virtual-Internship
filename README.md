@@ -10,7 +10,7 @@ This repository contains the submitted patch files of the various tasks assigned
 
 ## My Certificate of Completion 
 
-![]( ......   )
+![]( https://github.com/anchal12ajay12/JPMorgan-Chase-Virtual-Internship/blob/master/ScreenShot.PNG  )
 
 ## For any queries/doubts:
 
